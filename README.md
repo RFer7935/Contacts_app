@@ -1,5 +1,7 @@
 # Only Contacts
 
+Forking from Ehtiram-Ullah https://github.com/Ehtiram-Ullah, for repository : https://github.com/Ehtiram-Ullah/Contacts_app
+
 ## Overview
 **Only Contacts** is a simple yet efficient Flutter application designed for managing contacts. It allows users to store and retrieve contact information locally with ease. The app is built using modern Flutter practices, ensuring smooth performance and a great user experience.
 

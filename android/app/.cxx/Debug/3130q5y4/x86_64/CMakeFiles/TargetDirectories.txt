@@ -1,0 +1,2 @@
+D:/Clone/Contacts_app/android/app/.cxx/Debug/3130q5y4/x86_64/CMakeFiles/edit_cache.dir
+D:/Clone/Contacts_app/android/app/.cxx/Debug/3130q5y4/x86_64/CMakeFiles/rebuild_cache.dir

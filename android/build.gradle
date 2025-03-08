@@ -1,10 +1,20 @@
+buildscript {
+    repositories {
+        google()          // Wajib untuk AGP <button class="citation-flag" data-index="3"><button class="citation-flag" data-index="5">
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.0.0' // Sesuaikan dengan Gradle 8.5 <button class="citation-flag" data-index="9">
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.20" // Kotlin untuk Gradle 8.5 <button class="citation-flag" data-index="10">
+    }
+}
+
 allprojects {
     repositories {
         google()
         mavenCentral()
     }
 }
-
 rootProject.buildDir = '../build'
 subprojects {
     project.buildDir = "${rootProject.buildDir}/${project.name}"
